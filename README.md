@@ -11,6 +11,7 @@ Date, Opening Price, Highest Price, Lowest Price, Closing Price, Adjusted Closin
 Based on the given features, develop a RNN model to predict, the price of stocks in future
 ## Neural Network Model
 
+![photo_2023-10-09_19-27-35](https://github.com/balaji-21005757/rnn-stock-price-prediction/assets/94372294/228f0ba6-9938-4e5a-bf8f-c97110537cd1)
 
 
 ## DESIGN STEPS
